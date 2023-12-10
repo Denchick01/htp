@@ -1,0 +1,12 @@
+
+.meny{
+    position: relative;
+    padding-top: 20px;
+    width: 1221px;
+    height: 80px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap; 
+    justify-content:space-evenly;
+    
