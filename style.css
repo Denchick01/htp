@@ -9,4 +9,79 @@
     flex-direction: row;
     flex-wrap: nowrap; 
     justify-content:space-evenly;
-    
+}
+
+.main_tekst{
+    text-align: center;
+    font-family: 'Readex Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 43px;
+    line-height: 41px;
+    color: #000000;
+}
+
+.text{
+    text-align: center;
+    font-family: 'Readex Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 31px;
+    color: #000000;
+}
+
+.katolog{
+    width: 1434.38px;
+    height: 606px;
+    padding-top:80;
+    display: flex;
+    justify-content: space-evenly;
+}
+.card-img{
+    height:214px ;
+        }
+
+.text-card{
+    font-family: 'Readex Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 28px;
+    color: #000000;
+        }
+
+.card{
+    height: 396px;
+    width: 321px;
+    padding-top: 57px;
+    padding-left: 75px;
+}  
+
+.hadpis{
+    text-align: center;
+    font-family: 'Readex Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 43px;
+    line-height: 41px;
+    color: #000000;
+}
+
+.imgg{
+    height:800px ;
+}
+
+.Otsev{
+    width: 1434.38px;
+    height: 606px;
+    padding-top:80;
+    display: flex;
+    justify-content: space-evenly;
+}
+.Otsevs{
+    height: 396px;
+    width: 321px;
+    padding-top: 57px;
+    padding-left: 75px;
+}
